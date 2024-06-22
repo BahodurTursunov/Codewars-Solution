@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars Solutions", "Codewars Solutions\Codewars Solutions.csproj", "{B0DA6026-89DB-42AE-B159-25F63D811C06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codewars Solutions", "Codewars Solutions\Codewars Solutions.csproj", "{B0DA6026-89DB-42AE-B159-25F63D811C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu All Star Code Challenge #18", "8kyu All Star Code Challenge #18\8kyu All Star Code Challenge #18.csproj", "{D96A20B0-86A1-4902-B566-59DC59332FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu All Star Code Challenge #18", "8kyu All Star Code Challenge #18\8kyu All Star Code Challenge #18.csproj", "{D96A20B0-86A1-4902-B566-59DC59332FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu MakeUpperCase", "8kyu MakeUpperCase\8kyu MakeUpperCase.csproj", "{14E5A26C-2A4E-4365-ACBF-14E498C6BDD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu MakeUpperCase", "8kyu MakeUpperCase\8kyu MakeUpperCase.csproj", "{14E5A26C-2A4E-4365-ACBF-14E498C6BDD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Keep up the hoop", "8kyu Keep up the hoop\8kyu Keep up the hoop.csproj", "{B22A2B77-0FD4-4A43-9B13-31FD19F9799A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu Keep up the hoop", "8kyu Keep up the hoop\8kyu Keep up the hoop.csproj", "{B22A2B77-0FD4-4A43-9B13-31FD19F9799A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Chuck Norris VII - True or False_Beginner", "8kyu Chuck Norris VII - True or False_Beginner\8kyu Chuck Norris VII - True or False_Beginner.csproj", "{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu Chuck Norris VII - True or False_Beginner", "8kyu Chuck Norris VII - True or False_Beginner\8kyu Chuck Norris VII - True or False_Beginner.csproj", "{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Short Long Short", "8kyu Short Long Short\8kyu Short Long Short.csproj", "{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
