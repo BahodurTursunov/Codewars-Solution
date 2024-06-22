@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu MakeUpperCase", "8kyu 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Keep up the hoop", "8kyu Keep up the hoop\8kyu Keep up the hoop.csproj", "{B22A2B77-0FD4-4A43-9B13-31FD19F9799A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Chuck Norris VII - True or False_Beginner", "8kyu Chuck Norris VII - True or False_Beginner\8kyu Chuck Norris VII - True or False_Beginner.csproj", "{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B22A2B77-0FD4-4A43-9B13-31FD19F9799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B22A2B77-0FD4-4A43-9B13-31FD19F9799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B22A2B77-0FD4-4A43-9B13-31FD19F9799A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA22B9F-121E-4E94-BA06-678CA1DF2D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
