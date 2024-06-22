@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu Chuck Norris VII - Tru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Short Long Short", "8kyu Short Long Short\8kyu Short Long Short.csproj", "{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu get character from ASCII Value", "8kyu get character from ASCII Value\8kyu get character from ASCII Value.csproj", "{FC101ACF-18FD-46D4-9757-9531FDAEA36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu Is it even", "8kyu Is it even\8kyu Is it even.csproj", "{4EB41D03-4ACB-4E7D-B508-722D54C7D237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9D9FD93-D182-4E11-A8FD-17E033C3A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC101ACF-18FD-46D4-9757-9531FDAEA36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC101ACF-18FD-46D4-9757-9531FDAEA36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC101ACF-18FD-46D4-9757-9531FDAEA36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC101ACF-18FD-46D4-9757-9531FDAEA36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB41D03-4ACB-4E7D-B508-722D54C7D237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB41D03-4ACB-4E7D-B508-722D54C7D237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB41D03-4ACB-4E7D-B508-722D54C7D237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB41D03-4ACB-4E7D-B508-722D54C7D237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
