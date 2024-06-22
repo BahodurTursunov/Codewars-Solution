@@ -9,7 +9,7 @@
 
         public static bool IfChuckSaysSo()
         {
-            return false;
+            return !true;
         }
     }
 }
