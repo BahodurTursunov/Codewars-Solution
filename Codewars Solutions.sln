@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 kyu Clothes size number c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7kyu Count the divisors of a number", "7kyu Count the divisors of a number\7kyu Count the divisors of a number.csproj", "{0B0691C3-8AEB-4266-9C70-7B360345570C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7kyu Check three and two", "7kyu Check three and two\7kyu Check three and two.csproj", "{C1DD35AD-2022-4B0F-8148-8CCECC40FE35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7kyu Check three and two", "7kyu Check three and two\7kyu Check three and two.csproj", "{C1DD35AD-2022-4B0F-8148-8CCECC40FE35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5kyu RGB To Hex Conversion", "5kyu RGB To Hex Conversion\5kyu RGB To Hex Conversion.csproj", "{D13B03D4-1F0D-49BB-97B5-4BA90CB92902}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5kyu RGB To Hex Conversion", "5kyu RGB To Hex Conversion\5kyu RGB To Hex Conversion.csproj", "{D13B03D4-1F0D-49BB-97B5-4BA90CB92902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyu Count characters in your string", "6kyu Count characters in your string\6kyu Count characters in your string.csproj", "{5D7E35C3-2C5F-463E-9F27-5CEC10185E37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{D13B03D4-1F0D-49BB-97B5-4BA90CB92902}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D13B03D4-1F0D-49BB-97B5-4BA90CB92902}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D13B03D4-1F0D-49BB-97B5-4BA90CB92902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7E35C3-2C5F-463E-9F27-5CEC10185E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7E35C3-2C5F-463E-9F27-5CEC10185E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7E35C3-2C5F-463E-9F27-5CEC10185E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7E35C3-2C5F-463E-9F27-5CEC10185E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
