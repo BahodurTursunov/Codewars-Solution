@@ -2,18 +2,18 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }
 
-        static int Divisors(int number)
+        private static int Divisors(int number)
         {
             foreach (int item in number)
             {
 
             }
-            if (n % 2 == 0)
+            if (number % 2 == 0)
             {
 
             }
