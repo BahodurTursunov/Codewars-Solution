@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique Elements", "Unique Elements.csproj", "{4253EF62-B886-4483-9F26-AAC10F34F579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4253EF62-B886-4483-9F26-AAC10F34F579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4253EF62-B886-4483-9F26-AAC10F34F579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4253EF62-B886-4483-9F26-AAC10F34F579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4253EF62-B886-4483-9F26-AAC10F34F579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA567549-153C-41B3-AB7B-7452F5CD50AE}
+	EndGlobalSection
+EndGlobal
