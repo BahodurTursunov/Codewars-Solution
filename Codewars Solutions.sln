@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyu Counting Duplicates", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4kyu Roman Numerals Helper", "4kyu Roman Numerals Helper\4kyu Roman Numerals Helper.csproj", "{3808E6F4-0469-4686-BF00-133400BB1DF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4kyu Codewars style ranking system", "4kyu Codewars style ranking system\4kyu Codewars style ranking system.csproj", "{D829F2F3-0734-459B-9590-381B2E1262FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,18 @@ Global
 		{3808E6F4-0469-4686-BF00-133400BB1DF8}.Release|x64.Build.0 = Release|Any CPU
 		{3808E6F4-0469-4686-BF00-133400BB1DF8}.Release|x86.ActiveCfg = Release|Any CPU
 		{3808E6F4-0469-4686-BF00-133400BB1DF8}.Release|x86.Build.0 = Release|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Debug|x64.Build.0 = Debug|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x64.ActiveCfg = Release|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x64.Build.0 = Release|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
