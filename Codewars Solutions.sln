@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu Is it even", "8kyu Is 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8kyu Points of Reflection", "8kyu Points of Reflection\8kyu Points of Reflection.csproj", "{10951C7C-25FA-4FFA-8BAD-B10BD615700E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 kyu Clothes size number converter", "7 kyu Clothes size number converter\7 kyu Clothes size number converter.csproj", "{C456EBFB-C24B-4DB6-A6C7-23E1D18B21C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7kyu Clothes size number converter", "7 kyu Clothes size number converter\7kyu Clothes size number converter.csproj", "{C456EBFB-C24B-4DB6-A6C7-23E1D18B21C8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7kyu Count the divisors of a number", "7kyu Count the divisors of a number\7kyu Count the divisors of a number.csproj", "{0B0691C3-8AEB-4266-9C70-7B360345570C}"
 EndProject
@@ -38,6 +38,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4kyu Roman Numerals Helper", "4kyu Roman Numerals Helper\4kyu Roman Numerals Helper.csproj", "{3808E6F4-0469-4686-BF00-133400BB1DF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4kyu Codewars style ranking system", "4kyu Codewars style ranking system\4kyu Codewars style ranking system.csproj", "{D829F2F3-0734-459B-9590-381B2E1262FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyu Highest Rank Number in an Array", "6kyu Highest Rank Number in an Array\6kyu Highest Rank Number in an Array.csproj", "{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5qyu 5ROT13", "5 qyu 5ROT13\5qyu 5ROT13.csproj", "{9FDE86CF-9EEB-41F5-97CC-392442C8151E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -265,6 +269,30 @@ Global
 		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x64.Build.0 = Release|Any CPU
 		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x86.ActiveCfg = Release|Any CPU
 		{D829F2F3-0734-459B-9590-381B2E1262FD}.Release|x86.Build.0 = Release|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Debug|x64.Build.0 = Debug|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Debug|x86.Build.0 = Debug|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Release|x64.ActiveCfg = Release|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Release|x64.Build.0 = Release|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Release|x86.ActiveCfg = Release|Any CPU
+		{514C4FAE-48D6-41E0-AEDF-FB1C2AADA42B}.Release|x86.Build.0 = Release|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Debug|x64.Build.0 = Debug|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Debug|x86.Build.0 = Debug|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Release|x64.ActiveCfg = Release|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Release|x64.Build.0 = Release|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Release|x86.ActiveCfg = Release|Any CPU
+		{9FDE86CF-9EEB-41F5-97CC-392442C8151E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
